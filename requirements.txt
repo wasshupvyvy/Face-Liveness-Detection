@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+torch
+torchvision
+numpy
+scipy
+Pillow	
+PySide6
